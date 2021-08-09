@@ -1,0 +1,33 @@
+.App {
+  font-family: "Architects Daughter", serif;
+  text-align: center;
+}
+
+.header {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-size: 60px;
+}
+.name-tag {
+  background-color: red;
+  padding: 10px 0 20px;
+  border-radius: 20px;
+  width: 350px;
+  margin: 20px 10px;
+  display: inline-block;
+}
+.title {
+  color: black;
+  margin: 0;
+  font-size: 40px;
+}
+.subtitle {
+  color: white;
+  margin: 0;
+}
+.name {
+  background-color: white;
+  margin: 10px 0;
+  font-size: 20px;
+  height: 90px;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}

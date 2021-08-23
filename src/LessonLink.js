@@ -6,9 +6,7 @@ const LessonLink = (props) => (
   <div className="">
     <h3 className="title">Your randomly selected lesson of the day is:</h3>
     <h2 className="name">{props.link}</h2>
-    <button>
-      This isn't clickable yet. Refresh the page to generate new challenge.
-    </button>
+    <button>This isn't clickable yet. Refresh.</button>
   </div>
 );
 
